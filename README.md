@@ -1,7 +1,7 @@
 # Resume
 Software Testing | Quality Assurance | Project Management |
 
-To leverage over 19 years of expertise in Support, Software Testing, Quality Assurance, and Healthcare IT systems by ensuring high-quality, compliant & secure digital healthcare solutions. Targeting to contribute as a Quality Engineer / QA Lead in a healthcare-focused organization, driving functional excellence, automation adoption, interoperability (FHIR/CCDA) standards, and Agile/DevOps testing practices to deliver superior patient-centric and regulatory-compliant outcomes.
+To leverage over 19 years of expertise in Support, Cient Support, Software Testing, Quality Assurance, and Healthcare IT systems by ensuring high-quality, compliant & secure digital healthcare solutions. Targeting to contribute as a Quality Engineer / QA Lead in a healthcare-focused organization, driving functional excellence, automation adoption, interoperability (FHIR/CCDA) standards, and Agile/DevOps testing practices to deliver superior patient-centric and regulatory-compliant outcomes.
 
 #PROFILE SUMMARY
 -IT professional with expertise in QA Management, Software Testing Lifecycle, and Project Management, with a strong emphasis on Team Leadership.
