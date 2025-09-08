@@ -15,7 +15,7 @@ To leverage over 19 years of expertise in Support, Software Testing, Quality Ass
 -Key People Leader, who has successfully led & motivated teams in a cross-cultural environment towards growth; created a clear & compelling view of future through coaching and execution.
 
 #TECHNICAL SKILLS
-Tools: SQL Profiler, Postman, SQL Execution plan JMeter, dotMemmory, Knowledge of Winrunner 7.0
+Tools: SQL Profiler, Postman, SQL Execution plan, dotMemmory.
 Project Management Tools: Azure DevOps Server
 AI Tools: Perplexity, Co-Pilot (exploring)
 Repository: GitHub, Shared path, Microsoft OneDrive, CVS, SVN
